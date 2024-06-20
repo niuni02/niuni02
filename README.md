@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Data Analyst/Data Scientist, currently studying BSc Economics and Geography at UCL!</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-- 🔭 I’m currently working on: **Utility Warehouse Data Analytics Internship**
+- 🔭 I’m currently working on: **Completing my university degree at UCL**
 
 - 🌱 I’m currently learning: **SQL, BigQuery and Mixpanel**
 
