@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Niuni Amarasinghe!🌸</h1>
-<h3 align="center">An aspiring Data Analyst/Data Scientist, currently studying BSc Economics and Geography at UCL!</h3>
+<h3 align="center">An aspiring Data Analyst/Data Scientist, graduated with a BSc Economics and Geography at UCL!</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-- 🔭 I’m currently working on: **Completing my university degree at UCL**
+- 🔭 I’m currently working on: **Starting my graduate job!**
 
-- 🌱 I’m currently learning: **SQL, BigQuery and Mixpanel**
+- 🌱 I’m currently learning: **Python**
 
-- 💬 Ask me about: **R and SQL**
+- 💬 Ask me about: **My university projects**
 
 - 📫 How to reach me: **aniuni02@outlook.com**
 
